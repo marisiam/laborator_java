@@ -1,0 +1,23 @@
+[ [ "exercitiul2.Chitara", {
+  "producator" : "Flanco",
+  "pret" : 450.99,
+  "tip_chitara" : "ELECTRICA",
+  "nr_corzi" : 6
+} ], [ "exercitiul2.SetTobe", {
+  "producator" : "Startone",
+  "pret" : 879.5,
+  "tip_tobe" : "ELECTRONICE",
+  "nr_tobe" : 7,
+  "nr_cinele" : 2
+} ], [ "exercitiul2.Chitara", {
+  "producator" : "Harley",
+  "pret" : 651.87,
+  "tip_chitara" : "ACUSTICA",
+  "nr_corzi" : 6
+} ], [ "exercitiul2.SetTobe", {
+  "producator" : "Yamaha",
+  "pret" : 1325.0,
+  "tip_tobe" : "ACUSTICE",
+  "nr_tobe" : 5,
+  "nr_cinele" : 2
+} ] ]

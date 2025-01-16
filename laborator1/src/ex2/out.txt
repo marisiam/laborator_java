@@ -1,0 +1,4 @@
+Suma: 115
+Media: 23.0
+Valoarea minima: 5
+Valoarea maxima: 35

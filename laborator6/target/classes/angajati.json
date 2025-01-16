@@ -1,0 +1,38 @@
+[
+  {
+    "nume": "Razvan",
+    "postul": "student",
+    "data_angajarii": "2017-11-20",
+    "salariul": 5000.0
+  },
+  {
+    "nume": "Ziag",
+    "postul": "DevOps",
+    "data_angajarii": "2019-06-29",
+    "salariul": 1250.0
+  },
+  {
+    "nume": "Ion",
+    "postul": "Tester",
+    "data_angajarii": "2015-03-07",
+    "salariul": 3000.0
+  },
+  {
+    "nume": "Alexander",
+    "postul": "Tester",
+    "data_angajarii": "2015-03-07",
+    "salariul": 1000.0
+  },
+  {
+    "nume": "John",
+    "postul": "Software developer",
+    "data_angajarii": "2010-08-01",
+    "salariul": 2400.0
+  },
+  {
+    "nume": "Andrei",
+    "postul": "director",
+    "data_angajarii": "2016-04-11",
+    "salariul": 3000.0
+  }
+]
